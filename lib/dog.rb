@@ -7,5 +7,11 @@ class Dog
     @name
   end
   
+  def breed=(new_breeed)
+    @breed
+  end
+  
   def breed
+    
+  end
 end
